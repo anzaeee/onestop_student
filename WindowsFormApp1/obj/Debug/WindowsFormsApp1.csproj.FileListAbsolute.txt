@@ -1,0 +1,16 @@
+C:\Users\MSI\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\MSI\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\MSI\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\MSI\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\MSI\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\MSI\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\MSI\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\MSI\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SignUp.resources
+C:\Users\MSI\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Home.resources
+C:\Users\MSI\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StudentLandingPage.resources
+C:\Users\MSI\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Degree.resources
+C:\Users\MSI\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RDegree.resources
