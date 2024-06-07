@@ -1,7 +1,2 @@
 # onestop_student
-Course project for Database Systems.
-Divided into two sides: student and staff.
-
-The project follows a simple degree issuance module. This is the student side of the module.
-
-Student can sign up, log in, place a request, track request and download the 'degree' in the request has been approved.
+OneStop Student is a C# console application designed to streamline the management of educational institutions by integrating with an SQL Server Database. This repository contains the front-end for the student side of the application.
